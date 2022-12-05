@@ -86,3 +86,47 @@ p {
     vertical-align: top;
     letter-spacing: 1px;
 }
+
+@media screen and (max-width: 391px) {
+
+    nav {
+        display: none;
+    }
+
+    .btn-sign-up {
+        width: 91px;
+        height: 31px;
+        margin: 15px 0 0 190px;
+    }
+
+    img {
+        position: absolute;
+        width: 280px;
+        height: 288px;
+        margin-top: 280px;
+        margin: 290px 0 0 10px;
+    }
+
+    h1 {
+        width: 278px;
+        height: 60px;
+        font-size: 30px;
+        line-height: 30px;
+        text-align: center;
+        margin: 40px 0 0 -75px;
+    }
+
+    p {
+        margin: 20px 0px 20px -80px;
+        width: 280px;
+        height: 165px;
+        font-size: 15px;
+        text-align: center;
+        line-height: 29px;
+    }
+
+    .learn-more {
+        position: relative;
+        bottom: 30px;
+    }
+}
