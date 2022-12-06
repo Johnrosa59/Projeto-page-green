@@ -96,15 +96,15 @@ p {
     .btn-sign-up {
         width: 91px;
         height: 31px;
-        margin: 15px 0 0 190px;
+        margin: 15px 0 0 270px;
     }
 
     img {
         position: absolute;
-        width: 280px;
+        width: 312px;
         height: 288px;
         margin-top: 280px;
-        margin: 290px 0 0 10px;
+        margin: 480px 0 0 40px;
     }
 
     h1 {
@@ -113,20 +113,21 @@ p {
         font-size: 30px;
         line-height: 30px;
         text-align: center;
-        margin: 40px 0 0 -75px;
+        margin: 80px 0px 0px -30px;
     }
 
     p {
-        margin: 20px 0px 20px -80px;
-        width: 280px;
+        margin: 30px 0px 20px -30px;
+        width: 304px;
         height: 165px;
-        font-size: 15px;
+        font-size: 18px;
         text-align: center;
         line-height: 29px;
     }
 
     .learn-more {
-        position: relative;
-        bottom: 30px;
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 60px;
     }
 }
