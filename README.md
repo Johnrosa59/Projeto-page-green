@@ -5,3 +5,7 @@ Projeto feito e aprendido no Curso do <a href="https://rodolfomori.com.br/devclu
 Tecnologias usadas: <br>
     -HTML<br>
     -CSS
+
+
+Imagem do site:
+<img src="https://github.com/Johnrosa59/Projeto-page-green/blob/master/img/README.png?raw=true">
