@@ -9,3 +9,8 @@ Tecnologias usadas: <br>
 
 Imagem do site:
 <img src="https://github.com/Johnrosa59/Projeto-page-green/blob/master/img/README.png?raw=true">
+
+
+Imagem do site Mobile:
+
+<img src="https://github.com/Johnrosa59/Projeto-page-green/blob/master/img/Imagem%20README%202.png?raw=true">
