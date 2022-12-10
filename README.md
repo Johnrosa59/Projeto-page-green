@@ -12,5 +12,6 @@ Imagem do site:
 
 
 Imagem do site Mobile:
-
+(390 x 800)
+<br>
 <img src="https://github.com/Johnrosa59/Projeto-page-green/blob/master/img/Imagem%20README%202.png?raw=true">
