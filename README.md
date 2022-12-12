@@ -8,6 +8,8 @@ Tecnologias usadas: <br>
 
 <h2>Sobre o Projeto:</h2>
 
+Design original no Figma: https://www.figma.com/file/LzA0ntQdfERw4z41hxvLSs/13.-(Positive)-Congratulation-You-get-40-point-for-your-ride?t=kYbZfKD6pLXk4cvJ-0
+
 Tive alguns problemas com meu navegador na hora da exibição do site, o navegador Google Chrome não exibia na resolução correta, eu achei que foi o código mas acabei descobrindo que era o navegador pois instalei um software em minha máquina chamado ResponsivelyApp e exibiu certinho.
 
 O site então possui uma responsividade para um Iphone 12 Pro ou Mobiles similares.
