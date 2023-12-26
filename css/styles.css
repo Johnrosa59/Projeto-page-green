@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background: #000;
+}
+
 .header-links {
     color: #17233D;
     text-decoration: none;
@@ -25,6 +29,7 @@ nav {
 
 .spacing-links {
     margin-left: 36px;
+    color: #fff;
 }
 
 .btn-sign-up {
@@ -61,6 +66,7 @@ h1 {
     text-align: Left;
     vertical-align: Top;
     letter-spacing: 0.6px;
+    color: #fff;
 }
 
 p {
@@ -72,6 +78,7 @@ p {
     font-weight: 400;
     margin-top: 47px;
     margin-bottom: 55px;
+    color: #d6c7c7;
 }
 
 .learn-more {
